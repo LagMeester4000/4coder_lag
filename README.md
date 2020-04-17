@@ -15,6 +15,14 @@ Things I changed from 4coder_fleury:
 
 
 
+## Building
+
+* Paste the `4coder_lag` folder into your `4coder/custom` folder
+* Open `x64 Native Tools Command Prompt for VS` and navigate to the `4coder/custom`
+* Call `"./4coder_lag/build.bat"`
+
+
+
 ## Autocompletion (WIP)
 
 The thing I missed the most when switching to this editor is autocompletion and I couldn't find any customization that had it, so I made it myself. 
